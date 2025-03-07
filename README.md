@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/SceTeam1/Bot-Raid-Discord-V1
-
+cd Bot-Raid-Discord-V1
 bash setup.sh
 bash run.sh
 ```
