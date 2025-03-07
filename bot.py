@@ -33,7 +33,7 @@ status = [
 
 anti_join_enabled = False
 
-OWNER_ID = int(input("Enter the owner's ID: "))
+OWNER_ID = input("Enter the owner's ID: ")
 TOKEN = input("Enter your bot token: ")
 
 channel_names = input("Enter a channel name for spam: ")
