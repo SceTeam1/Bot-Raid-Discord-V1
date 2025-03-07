@@ -12,4 +12,4 @@ bash run.sh
 ```
 
 # for windows 
-# download the zip then launch the setup.py and then start the run 
+# download the zip then launch the setup.bat and then start the run.bat
