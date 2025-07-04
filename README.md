@@ -12,7 +12,7 @@ bash run.sh
 ```
 
 # for windows 
-# download the zip then launch the setup.bat and then start the run.bat
+# download the zip then launch the setup.bat and then start the setup.bat and the run.bat
 
 
 go to : https://discord.gg/CJ5cdNAemp
