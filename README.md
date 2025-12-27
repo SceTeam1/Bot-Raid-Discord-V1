@@ -15,4 +15,4 @@ bash run.sh
 # download the zip then launch the setup.bat and then start the setup.bat and the run.bat
 
 
-go to : https://discord.gg/CJ5cdNAemp
+go to : https://discord.gg/wENUshsgV3
